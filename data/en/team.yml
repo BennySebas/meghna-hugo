@@ -1,0 +1,100 @@
+############################### team ############################
+team:
+  enable : true
+  title : Our Team
+  team_member :
+    # team member loop
+    - name : Tiago Belo
+      image_webp : images/team/belo.webp
+      image : images/team/belo.jpg
+      designation : LEEC - Licenciatura em Engenharia Electrotécnica e de Computadores
+      content : Planner ​- Market Research and Analysis​,Define Project Scope and Objectives, Resource Allocation and Budgeting, Risk Assessment and Mitigation Strategy​. 
+     #social :
+       # - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+        #  link : "#"
+        #- icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          #link : "#"
+        #- icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          #link : "#"
+        #- icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+         # link : "#"
+        
+    # team member loop
+    - name : João Leitão
+      image_webp : images/team/jleitao.webp
+      image : images/team/jleitao.jpg
+      designation : LEEC - Licenciatura em Engenharia Electrotécnica e de Computadores
+      content : Project Manager ​- Project Planning and Timeline Creation​, Team Coordination and Task Delegation​,Progress Tracking and Reporting​, Quality Assurance and Testing Oversight​.   
+     # social :
+        #- icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+        #  link : "#"
+        #- icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+         # link : "#"
+        #- icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+         # link : "#"
+        #- icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+         # link : "#"
+        
+    # team member loop
+    - name : João Fonseca
+      image_webp : images/team/Fonseca.webp
+      image : images/team/Fonseca.jpg
+      designation : LEEC - Licenciatura em Engenharia Electrotécnica e de Computadores
+      content : Puppy Shooter​ - Constructive Critique Sessions​, Idea Evaluation and Analysis​, Detailed Feedback Documentation​, Solution-Oriented Recommendations​.
+      social :
+        #- icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+         # link : "#"
+        #- icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+         # link : "#"
+        #- icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+         # link : "#"
+        #- icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+         # link : "#"
+        
+    # team member loop
+    - name : Bernardo Sebastião
+      image_webp : images/team/BernardoSebastiao.webp
+      image : images/team/BernardoSebastiao.jpg
+      designation : LEE - Licenciatura em Engenharia Electrónica
+      content : Sales & Marketing​ - Market Entry Strategy and Go-to-Market Plan​, Promotional Material Creation​, User Acquisition Campaigns​, Feedback Collection and User Engagement​.
+      social :
+        #- icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+         # link : "#"
+        #- icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+         # link : "#"
+        #- icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+         # link : "#"
+        #- icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+         # link : "#"
+              
+    # team member loop
+    - name : Carolina Arruda
+      image_webp : images/team/Carolina.webp
+      image : images/team/Carolina.jpg
+      designation : LEEC - Licenciatura em Engenharia Electrotécnica e de Computadores
+      content : Engineer​ - System Architecture and Technology Selection​, Backend Development​, Frontend Development​, Integration and Testing​.  
+      social :
+       # - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+         # link : "#"
+        #- icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+         # link : "#"
+        #- icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+         # link : "#"
+        #- icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+         # link : "#"
+              
+    # team member loop
+    - name : Marco Santos
+      image_webp : images/team/Marco.webp
+      image : images/team/Marco.png
+      designation : LEEC - Licenciatura em Engenharia Electrotécnica e de Computadores
+      content : Designer - User Experience Research and Wireframing, Interface Design and Prototyping​, Visual Design and Branding​, Design Handoff and Collaboration​.
+      social :
+        #- icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+         # link : "#"
+        #- icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+         # link : "#"
+        #- icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+         # link : "#"
+        #- icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+         # link : "#"
